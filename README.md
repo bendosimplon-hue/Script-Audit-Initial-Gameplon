@@ -17,6 +17,7 @@ Automate a diagnostic of a basic existing computer to further uniform and connec
 ├── Script-Audit-Initial-Gameplon/
 │   ├── README.md          → Project presentation
 │   ├── audit_gameplon.ps1 → Script to perform the audit
+│   ├── Extract.csv        → Data extract by the script in csv format
 │   ├── Plaquette Comm.pdf → Info brochure on good practice to stay safe
 │   ├── Prez Comm.ppt      → Powerpoint version of the brochure for presentation
 
