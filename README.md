@@ -37,7 +37,7 @@ Automate a diagnostic of a basic existing computer to further uniform and connec
 
 - **VS Code** with *Markdown All in One*
 - **GitHub Desktop** or CLI `git`
-- **PowerShell** tu edit script
+- **PowerShell** to edit and test script
 
 ---
 
