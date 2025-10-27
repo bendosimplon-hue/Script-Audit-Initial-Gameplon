@@ -1,6 +1,6 @@
 # Script-Audit-Initial-Gameplon
 
-This repository is a script to make an initial audit for a freshly creat gaming structure as part of an exercice in an secure infrastructure administrator course. Output must be in CSV. 
+This repository is a script to make an initial audit for a freshly created gaming structure as part of an exercice in an secure infrastructure administrator course. Output must be in CSV. 
 
 ---
 
